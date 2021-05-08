@@ -1,10 +1,10 @@
 baseurl: "https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/"
 title: "Visiting Experts’ Network (VEN)"
-author: "Ricardo N Feliciano (FelicianoTech)"
+author: ""
 canonifyurls: true
 paginate: 3
 
-theme: "hugo-theme-lean-launch-page"
+theme: "lean-launch-page"
 
 params:
   tagline: "We're celebrating a better network."
