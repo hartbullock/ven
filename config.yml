@@ -1,0 +1,15 @@
+baseurl: "https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/"
+title: "Visiting Experts’ Network (VEN)"
+author: "Ricardo N Feliciano (FelicianoTech)"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+params:
+  tagline: "We're celebrating a better network."
+  mailchimpURL: "https://docs.google.com/spreadsheets/d/1l_B85gamS2a4lrumoVV7w5zftVQBCiFRxpHCGmsCHTs/edit?usp=sharing"
+
+  facebook: "https://www.facebook.com/groups/visitingexperts/"
+  linkedin: "https://www.linkedin.com/company/68536071/"
+  envelope: "mailto:sfrank@colum.edu,minglei.zhang@maine.edu"
