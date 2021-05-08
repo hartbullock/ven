@@ -10,7 +10,7 @@
 {{ $directory := "themes/hugo-theme-lean-launch-page/static/" }}
 {{ $filename := "favicon.png" }}
 {{ if (where (readDir $directory) "Name" $filename) }}
-	<link rel="icon" type="image/png" href="favicon.png" />
+	<link rel="icon" type="image/png" href="favicon1.png" />
 {{ end }}
 	<title>{{ .Site.Title }}</title>
 </head>
@@ -18,7 +18,7 @@
 {{ $directory := "themes/hugo-theme-lean-launch-page/static/" }}
 {{ $filename := "favicon.png" }}
 {{ if (where (readDir $directory) "Name" $filename) }}
-	<img class="logo" src="/favicon.png" alt="Logo" />
+	<img class="logo" src="/favicon1.png" alt="Logo" />
 {{ end }}
 	<ul class="social-icons">
 		{{ if isset .Site.Params "twitter" }}<li><a href="{{ .Site.Params.twitter }}"><i class="fa fa-twitter"></i></a></li>{{ end }}
