@@ -7,7 +7,7 @@ paginate: 3
 theme: "hugo-theme-lean-launch-page"
 
 params:
-  tagline: "We're celebrating a better network."
+  tagline: "We're celebrating a better network with 680+"
   mailchimpURL: "https://docs.google.com/spreadsheets/d/1l_B85gamS2a4lrumoVV7w5zftVQBCiFRxpHCGmsCHTs/edit?usp=sharing"
 
   facebook: "https://www.facebook.com/groups/visitingexperts/"
